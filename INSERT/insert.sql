@@ -1,4 +1,0 @@
-INSERT INTO Employee1
-(EMPID, NAME)
-VALUES
-(1, 'RAKESH');
