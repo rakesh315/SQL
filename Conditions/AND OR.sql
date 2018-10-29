@@ -1,0 +1,4 @@
+SELECT *
+FROM EMPLOYEE1
+WHERE (City = 'Hyderabad' AND EMPID <> 9)
+OR (EMPID = 1);
